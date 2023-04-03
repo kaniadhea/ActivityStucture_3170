@@ -32,9 +32,10 @@ int main()
 	cout << "\nalamat: " << mhs1.alamat;
 	cout << "\nUmur: " << mhs1.umur;
 
-
-
-
+	cout << "\nNim: " << mhs2.nim;
+	cout << "\nnama: " << mhs2.nama;
+	cout << "\nalamat: " << mhs2.alamat;
+	cout << "\nUmur: " << mhs2.umur;
 }
 
 
